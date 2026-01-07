@@ -1,0 +1,90 @@
+
+/*------------------------------------------------------------------
+1. General
+----------------------------------------------------------------*/
+
+// helpers
+@import "helpers/variables";
+@import "helpers/functions";
+@import "helpers/mixins";
+
+// base
+@import "base/base";
+
+
+// components
+@import "components/section-title";
+@import "components/buttons";
+@import "components/form";
+@import "components/social-links";
+@import "components/page-title";
+@import "components/preloader";
+@import "components/blog-sidebar";
+@import "components/shop-sidebar";
+@import "components/pagination";
+
+// layout
+@import "layout/header";
+@import "layout/hero-slider";
+@import "layout/footer";
+
+// components
+@import "components/sticky-header";
+
+
+// page
+@import "page/home-default";
+
+@import "page/_home-style2";
+
+@import "page/_home-style3";
+
+@import "page/_home-style4";
+
+@import "page/_home-style5";
+
+@import "page/_home-style6";
+
+@import "page/_home-style7";
+
+@import "page/_home-style8";
+
+@import "page/_home-style9";
+
+@import "page/_invitation";
+
+@import "page/_shop-home";
+
+@import "page/_shop-home-2";
+
+@import "page/_shop-home-3";
+
+@import "page/_rtl-home";
+
+@import "page/_service";
+
+@import "page/_coming-soon";
+
+@import "page/_cart";
+
+@import "page/_checkout";
+
+@import "page/_shop";
+
+@import "page/_shop-single";
+
+@import "page/_bride";
+
+@import "page/_portfolio-single";
+
+@import "page/_blog";
+
+@import "page/_blog-single";
+
+@import "page/_contact";
+
+@import "page/_error-404";
+
+@import "page/_preview";
+
+@import "base/_color";
